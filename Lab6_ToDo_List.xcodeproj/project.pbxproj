@@ -16,6 +16,7 @@
 		E1E0AC2C2ADF6768006EAC9E /* Lab6_ToDo_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E0AC2B2ADF6768006EAC9E /* Lab6_ToDo_ListTests.swift */; };
 		E1E0AC362ADF6768006EAC9E /* Lab6_ToDo_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E0AC352ADF6768006EAC9E /* Lab6_ToDo_ListUITests.swift */; };
 		E1E0AC382ADF6768006EAC9E /* Lab6_ToDo_ListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E0AC372ADF6768006EAC9E /* Lab6_ToDo_ListUITestsLaunchTests.swift */; };
+		E1E0AC472ADF6B8D006EAC9E /* todoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E0AC462ADF6B8D006EAC9E /* todoTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E1E0AC312ADF6768006EAC9E /* Lab6_ToDo_ListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab6_ToDo_ListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1E0AC352ADF6768006EAC9E /* Lab6_ToDo_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab6_ToDo_ListUITests.swift; sourceTree = "<group>"; };
 		E1E0AC372ADF6768006EAC9E /* Lab6_ToDo_ListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab6_ToDo_ListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E1E0AC462ADF6B8D006EAC9E /* todoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = todoTableViewController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E1E0AC162ADF6766006EAC9E /* SceneDelegate.swift */,
 				E1E0AC182ADF6766006EAC9E /* ViewController.swift */,
 				E1E0AC1A2ADF6766006EAC9E /* Main.storyboard */,
+				E1E0AC462ADF6B8D006EAC9E /* todoTableViewController.swift */,
 				E1E0AC1D2ADF6768006EAC9E /* Assets.xcassets */,
 				E1E0AC1F2ADF6768006EAC9E /* LaunchScreen.storyboard */,
 				E1E0AC222ADF6768006EAC9E /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E1E0AC192ADF6766006EAC9E /* ViewController.swift in Sources */,
+				E1E0AC472ADF6B8D006EAC9E /* todoTableViewController.swift in Sources */,
 				E1E0AC152ADF6766006EAC9E /* AppDelegate.swift in Sources */,
 				E1E0AC172ADF6766006EAC9E /* SceneDelegate.swift in Sources */,
 			);
